@@ -9,7 +9,7 @@ A mesma aplicação de cadastro de pacientes (nome, idade, convênio, prioridade
 | `gradio_app/` | Gradio (`gr.Blocks`) | Local | `gradio_app/pacientes.csv` |
 | `streamlit_app/` | Streamlit (`st.form` + `st.session_state`) | Streamlit Community Cloud | Sessão + botão **Baixar CSV** |
 
-App publicado: `<COLOCAR LINK .streamlit.app>`
+App publicado: streamlit.app>`](https://cadastro-pacientes-gradio-app-toovljfvqgngrt5cap9uya.streamlit.app/)
 
 ## Como executar localmente
 
